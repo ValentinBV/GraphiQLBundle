@@ -1,7 +1,7 @@
 OverblogGraphiQLBundle
 ======================
 
-This Symfony bundle provides integration of [GraphiQL](https://github.com/graphql/graphiql) interface to your Symfony application
+This Symfony 6 bundle provides integration of [GraphiQL](https://github.com/graphql/graphiql) interface to your Symfony application
 
 [![Build Status](https://travis-ci.org/overblog/GraphiQLBundle.svg?branch=master)](https://travis-ci.org/overblog/GraphiQLBundle)
 [![Coverage Status](https://coveralls.io/repos/github/overblog/GraphiQLBundle/badge.svg?branch=master)](https://coveralls.io/github/overblog/GraphiQLBundle?branch=master)
